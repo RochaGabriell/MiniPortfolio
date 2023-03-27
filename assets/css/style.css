@@ -11,7 +11,7 @@
 }
 
 body {
-    background-image: url(assets/img/background.png);
+    background-image: url(/assets/img/background.png);
     background-size: cover; 
     display: flex;
     justify-content: center;
