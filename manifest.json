@@ -1,0 +1,30 @@
+{
+    "name": "I'm RochaGabriell",
+    "short_name": "RochaGabriell",
+    "description": "Este é o meu mini portfólio online, onde compartilho links para as minhas redes sociais.",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "sizes": "512x512",
+            "src": "assets/img/favicon/android-chrome-512x512.png"
+        },
+        {
+            "sizes": "192x192",
+            "src": "assets/img/favicon/android-chrome-192x192.png"
+        },
+        {
+            "sizes": "180x180",
+            "src": "assets/img/favicon/apple-touch-icon.png"
+        },
+        {
+            "sizes": "32x32",
+            "src": "assets/img/favicon/favicon-32x32.png"
+        },
+        {
+            "sizes": "16x16",
+            "src": "assets/img/favicon/favicon-16x16.png"
+        }
+    ],
+    "prefer_related_applications": true
+}
