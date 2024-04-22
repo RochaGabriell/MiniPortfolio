@@ -25,6 +25,5 @@
             "sizes": "16x16",
             "src": "assets/img/favicon/favicon-16x16.png"
         }
-    ],
-    "prefer_related_applications": true
+    ]
 }
